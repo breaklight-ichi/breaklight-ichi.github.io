@@ -18,4 +18,14 @@
       "FE:45:49:3A:53:C2:D1:1A:19:7E:72:88:50:43:FD:ED:D8:70:F1:15:22:C6:BC:BE:43:30:08:AC:6F:1C:48:73"
     ]
   }
+},
+{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.breaklight_ichi.katazuke",
+    "sha256_cert_fingerprints": [
+      "C6:6D:6C:69:05:89:96:22:24:04:2E:FF:9C:E9:E7:3F:02:63:12:8A:5C:B2:71:24:6E:B9:8D:7E:1D:C6:A2:9A"
+    ]
+  }
 }]
