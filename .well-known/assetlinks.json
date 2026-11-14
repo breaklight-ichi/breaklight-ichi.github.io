@@ -26,7 +26,8 @@
     "namespace": "android_app",
     "package_name": "io.github.breaklight_ichi.katazuke",
     "sha256_cert_fingerprints": [
-      "C6:6D:6C:69:05:89:96:22:24:04:2E:FF:9C:E9:E7:3F:02:63:12:8A:5C:B2:71:24:6E:B9:8D:7E:1D:C6:A2:9A"
+      "C6:6D:6C:69:05:89:96:22:24:04:2E:FF:9C:E9:E7:3F:02:63:12:8A:5C:B2:71:24:6E:B9:8D:7E:1D:C6:A2:9A",
+      "5E:4F:FD:D2:FD:E1:6F:3D:3B:37:35:B8:74:4B:E2:06:DA:74:32:5C:12:1D:8D:61:DF:8E:91:EB:DF:83:F1:63"
     ]
   }
 }]
