@@ -15,7 +15,8 @@
     "namespace": "android_app",
     "package_name": "io.github.breaklight_ichi.kanmiloupe",
     "sha256_cert_fingerprints": [
-      "FE:45:49:3A:53:C2:D1:1A:19:7E:72:88:50:43:FD:ED:D8:70:F1:15:22:C6:BC:BE:43:30:08:AC:6F:1C:48:73"
+      "FE:45:49:3A:53:C2:D1:1A:19:7E:72:88:50:43:FD:ED:D8:70:F1:15:22:C6:BC:BE:43:30:08:AC:6F:1C:48:73",
+      "D0:45:55:02:84:7B:95:2E:07:77:6A:18:A2:39:F0:03:88:D2:BC:C3:2D:95:F2:C2:88:17:5D:BA:30:DF:3F:0B"
     ]
   }
 },
